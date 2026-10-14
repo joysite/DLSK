@@ -1,3 +1,4 @@
+[English](../README.md) | [简体中文](docs/README.zh-CN.md)
 <div align="center">
 
 # DLSK
