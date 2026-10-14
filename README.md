@@ -1,5 +1,4 @@
-[English](../README.md) | [简体中文](README.zh-CN.md) 
-
+[简体中文](tests/README.zh-CN.md) | [English](../README.md)
 <div align="center">
 
 # DLSK
